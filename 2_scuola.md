@@ -5,7 +5,7 @@ title: scuola e teledidattica
 
 Sono molte le risorse disponibili per le lezioni a distanza. Nel seguito forniamo una lista di alcune soluzioni dedicate al mondo della scuola che possono essere utili in questo momento.  
 
-|-----------------|---------------------------------------------------|
+
 | Link            | Descrizione                                       |
 |-----------------|---------------------------------------------------|
 |[Edmodo](http://www.edmodo.com/)|Edmodo viene definito il social network delle scuole. È una piattaforma completa che permette di  attivare classi virtuali, assegnare compiti, allegare video, creare una propria biblioteca digitale. Sono disponibili [ottimi tutorial] (https://www.youtube.com/watch?v=b1dQaRuvD6o) per gli insegnanti.|
