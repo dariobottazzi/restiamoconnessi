@@ -12,8 +12,8 @@ description: |
 owner: <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 License</a>  # or company name
 first_published: 2020 # if migrating another site, the year of your first publish
 email: dario.bottazzi@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/restiamoconnessi/" # the subpath of your site, e.g. /blog
+url: "http://dariobottazzi.github.io" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/<username>
   github: https://github.com/<username>
