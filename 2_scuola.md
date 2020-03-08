@@ -3,7 +3,12 @@ layout: page
 title: scuola e teledidattica
 ---
 
-Sono molte le risorse disponibili per le lezioni a distanza. Nel seguito forniamo una lista di alcune soluzioni dedicate al mondo della scuola che possono essere utili in questo momento.  
+Nel mondo della scuola da tempo ci sono tentativi di sfruttare le nuove tecnologie per consentire di fare lezioni a distanza. Ne raccogliamo qui alcune, insieme a puntatori a tutorial o articoli che possono essere
+uno spunto per chi volesse provare.
+
+NB Questa lista **non è esaustiva**: se vuoi collaborare, sei benvenuta/o. Basta una mail o meglio una pull-request.
+
+## Piattaforme complete
 
 ## Edmodo
 [Edmodo](http://www.edmodo.com/) viene definito il social network delle scuole. È una piattaforma completa che permette di  attivare classi virtuali, assegnare compiti, allegare video, creare una propria biblioteca digitale. Sono disponibili [ottimi tutorial](https://www.youtube.com/watch?v=b1dQaRuvD6o) per gli insegnanti.
@@ -23,15 +28,38 @@ Fino al 1 Luglio 2020 Google fornirà gratuitamente alle scuole colpite dai prov
 Sono disponibili ottimi [tutorial.](https://www.youtube.com/watch?v=4ZTacumEfbo)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4ZTacumEfbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Telepresenza
+
+Preferiamo utilizzare il termine "telepresenza" perché gli strumenti che qui elenchiamo non sono soltanto dedicati a trasmettere contenuti multimediali ad una "classe", ma consentono di realizzare collegamenti in
+cui chiunque può interagire.
+
+Sono molti ormai gli strumenti che permettono di fare videoconferenze. Per realizzare una lezione online, sono più utili quelli che permettono di inviare un collegamento ai partecipanti, in modo
+che si possano connettere senza dover essere invitati uno per uno.
+
+### Jitsi meet
+
+[Jitsi](https://meet.jit.si/) è uno strumento gratuito ed _open source_ per la realizzazione di conferenze. È possibile aprire una "stanza" nella quale interagire, che rimane sempre attiva.
+
+I limiti di connessione sono quelli dati dalla potenza del collegamento dei partecipanti e dalle risorse di calcolo dei dispositivi collegati.
+
+### Google hangouts meet
+
+[Google Hangouts meet](https://meet.google.com/_meet) è disponibile per chi ha un account "pro" di Google Suite: è possibile per le aziende, ma è [gratuito per le scuole](https://edu.google.com/intl/it_it/products/gsuite-for-education/?modal_active=none)
+
+### Zoom
+[Zoom](https://zoom.us) | Zoom è uno strumento per la video conferenza che permette agli studenti di interagire con il docente remotamente. Il docente può condividere il suo schermo mostrando slide e materiale didattico. In questo periodo Zoom è gratuito per le scuole che devono fronteggiare l’emergenza del corona virus.  
+
+
+## Lavagne condivise
 
 ## Padlet
 [Padlet](https://padlet.com/) è una lavagna condivisa con “post it” dove prendere appunti e aggiungere immagini.  Padlet è uno strumento molto semplice e può essere impiegato anche nelle prime classi della scuola primaria. [Qui un tutorial.](https://www.youtube.com/watch?v=TmwOwj0ZPXs)  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TmwOwj0ZPXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Documenti condivisi
+
+## Materiali
 
 ## Wikibooks
 [Wikibooks](https://it.wikibooks.org/) Wikibooks è uno strumento che può essere utilizzato in ambienti didattici per la scrittura collaborativa.  
 
-
-## Zoom
-[Zoom](https://zoom.us) | Zoom è uno strumento per la video conferenza che permette agli studenti di interagire con il docente remotamente. Il docente può condividere il suo schermo mostrando slide e materiale didattico. In questo periodo Zoom è gratuito per le scuole che devono fronteggiare l’emergenza del corona virus.  
