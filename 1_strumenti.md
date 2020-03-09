@@ -15,10 +15,6 @@ Da quando si lavora in rete il tema della collaborazione on-line è stato centra
 ### Google Suite
 
 
-
-
-### Office 365
-
 ## Video conferenza
 
 Gli strumenti per le video-conferenze sono molto diversificati. Alcuni pemettono solo la partecipazione via Internet. Questi strumenti, tipicamente molto economici sono adatti per freelance o piccoli gruppi di lavoro.
@@ -33,15 +29,14 @@ Il sistema è estremamente semplice e consente l'accesso tramite telefono dai pr
 
 ### Zoom
 
-[Zoom](https://zoom.us). Zoom è uno strumento per la video conferenza molto popolare. Anche nel caso di Zoom è possibile l'accesso telefonico alle call. Il [costo del sistema](https://zoom.us/pricing) anche in questo caso è modesto.
+[Zoom](https://zoom.us) è uno strumento per la video conferenza molto popolare. Anche nel caso di Zoom è possibile l'accesso telefonico alle call. Il [costo del sistema](https://zoom.us/pricing) anche in questo caso è modesto.
 - esiste un piano free che consente riunioni uno ad uno di durata illimitata. Questo piano permette anche riunioni di un numero di partecipanti che può arrivare a 100, che però possono durare un massimo di 40 minuti.
 - I piani professionali hanno un costo che parte dai 13.99 Euro/mese per host e permettono riunioni di durata arbitraria con numeri di partecipanti crescenti (100 per contratto pro, 300 per contratto business, 500 per contratto enterprise).    
 
 ### Cisco Webex
-
-
-
-
+[Cisco Webex](https://www.webex.com/) è una soluzione molto popolare in ambienti professionali e consente video conferenze di buona qualità operando tramite telefono o tramite Internet. Esistono anche per questo prodotto fasce di [prezzo](https://www.webex.com/pricing/index.html) differenti:
+- l'offerta per servizi personali è gratuita e permette videoconferenze di durata illimitata con sino a 100 partecipanti. In questa versione però non è integrata la chiamata telefonica.
+- l'offerta dei servizi professionali parte invece da 12.85 Euro/mese per host e consente meeting di durata arbitraria con al massimo 50 partecipanti. Questo piano include la chiamata tramite telefono.
 
 ### Jitsi meet
 
@@ -49,7 +44,8 @@ Il sistema è estremamente semplice e consente l'accesso tramite telefono dai pr
 
 I limiti di connessione sono quelli dati dalla potenza del collegamento dei partecipanti e dalle risorse di calcolo dei dispositivi collegati. La partecipazione dei
 
-
+### Google hangout
+È la versione non professionale di Google Meet. Strumento molto simile, che permette videoconferenze di buona qualità. Non permette però la partecipazione telefonica.
 
 
 ---
