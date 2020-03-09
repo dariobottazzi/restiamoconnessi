@@ -113,5 +113,18 @@ tabelle pivot, caricare dati da remoto, disegnare grafici.
 
 Il [Ministro per l'Innovazione Tecnologica e la Digitalizzazione](https://innovazione.gov.it/coronavirus-la-digitalizzazione-a-supporto-delle-zone-rosse/) ha lanciato la campagna [Solidarietà digitale](https://solidarietadigitale.agid.gov.it/#/) che raccoglie opportunità fornite da aziende a favore delle zone con restrizioni per l'emergenza.
 
+### MIUR Didattica a distanza
+
+Il MIUR ha un [catalogo di link e informazioni sulla didattica a distanza](https://www.istruzione.it/coronavirus/didattica-a-distanza.html)
+
 --- 
 ## Contatti
+
+Alcuni contatti che hanno esperienza di insegnamento a distanza:
+
+* Francesco "Piersoft" Paolicelli: http://www.piersoft.it/
+* Luca Scalzullo: https://sites.google.com/view/lucascalzullo/home
+* Elia Bombardelli: https://www.spreaker.com/user/rickdufer/dailycogito2x157
+* Alessandro Bogliolo, Coding in your classroom now: http://codemooc.org/
+
+
