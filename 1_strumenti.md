@@ -10,12 +10,7 @@ Da quando si lavora in rete il tema della collaborazione on-line è stato centra
 
 ---
 
-## Piattaforme complete
-
-### Google Suite
-
-
-## Video conferenza
+## Call e Video-conferenza
 
 Gli strumenti per le video-conferenze sono molto diversificati. Alcuni pemettono solo la partecipazione via Internet. Questi strumenti, tipicamente molto economici sono adatti per freelance o piccoli gruppi di lavoro.
 
@@ -47,37 +42,49 @@ I limiti di connessione sono quelli dati dalla potenza del collegamento dei part
 ### Google hangout
 È la versione non professionale di Google Meet. Strumento molto simile, che permette videoconferenze di buona qualità. Non permette però la partecipazione telefonica.
 
-
 ---
-## Documenti condivisi
-
-### Testi
-
-#### Etherpad
-
-Etherpad permette di lavorare in collaborazione con altri a un documento condiviso. Può essere installato su un proprio server, oppure si possono utilizzare alcune istanze gratuite:
+## Scrittura ed Editing
 
 * [Etherpad di Fairkom](https://board.net/)
 * [Etherpad di Framasoft](https://framapad.org/it/)
 
-#### Documenti Google
+### Documenti Google
+TO DO 
 
-Chiunque abbia un account GMail, può creare documenti condivisi con [Documenti Google](https://docs.google.com/document/?usp=mkt_docs) che vengono modificati in collaborazione e salvati nel cloud.
+### Microsoft Office 365
+TO DO
 
-### Fogli elettronici
+### Collabora on-line
+TO DO
 
-#### Fogli Google
+### Zoho docs
+TO DO
 
-Chiunque abbia un account GMail ha a disposizione i [Fogli Google](https://docs.google.com/spreadsheets/?usp=mkt_sheets) che permettono di gestire in modo condiviso i fogli elettronici, di creare
-tabelle pivot, caricare dati da remoto, disegnare grafici.
+### Etherpad
+Etherpad permette di lavorare in collaborazione con altri a un documento condiviso. Può essere installato su un proprio server, oppure si possono utilizzare alcune istanze gratuite:
 
 #### Ethercalc
-
 [Ethercalc](https://ethercalc.net/) è un progetto che permette di condividere fogli elettronici
 
 ---
 
-## Risorse
+## Storage su cloud
+
+### Dropbox
+TO DO
+
+### Google Drive
+TO DO
+
+### Amazon drive
+TO DO
+
+### NextCloud
+TO DO
+
+---
+
+## Altre Risorse
 
 ### Solidarietà digitale
 
