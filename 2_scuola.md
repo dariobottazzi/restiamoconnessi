@@ -14,17 +14,20 @@ NB Questa lista **non è esaustiva**: se vuoi collaborare, sei benvenuta/o. Bast
 --- 
 ## Piattaforme complete
 
-## Edmodo
+### Edmodo
+
 [Edmodo](http://www.edmodo.com/) viene definito il social network delle scuole. È una piattaforma completa che permette di  attivare classi virtuali, assegnare compiti, allegare video, creare una propria biblioteca digitale. Sono disponibili [ottimi tutorial](https://www.youtube.com/watch?v=b1dQaRuvD6o) per gli insegnanti.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b1dQaRuvD6o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## WeSchool
+### WeSchool
+
 [WeSchool](https://www.weschool.com/) è tra le piattaforme più semplici da imparare ad usare. La sua curva di apprendimento la rende ideale a paerire dalle prime classi della scuola primaria. WeSchool permette di creare classi virtuali con un codice per gli studenti, di assegnare compiti di vario tipo (quiz Vero-Falso, risposte aperte, Cruciverba, etc). La veste grafica della soluzione è particolarmente curata. Sono disponibili [ottimi tutorial](https://www.youtube.com/watch?v=GmOhElgK5q8&feature=youtu.be) per gli insegnanti.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GmOhElgK5q8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Google Suite for Education
+### Google Suite for Education
+
 Fino al 1 Luglio 2020 Google fornirà gratuitamente alle scuole colpite dai provvedimenti sul corona virus [Google Suite for Education](https://edu.google.it/). La suite, oltre tutte le apps di Google, offre alcune soluzioni particolarmente interessanti:
     - *Meet* cioè la versione professionale Hangouts. Gestisce videoconferenze fino a 100 utenti e da Luglio 2020 fino a 250 utenti. Permette la registrazione della seduta di video call,
     - *ClassRoom*, un’ambiente collaborativo che consente agli utenti di chattare, condivisione condividere documenti, rispondere a test, etc. E’ la classe virtuale più usata nel mondo
@@ -52,23 +55,63 @@ I limiti di connessione sono quelli dati dalla potenza del collegamento dei part
 [Google Hangouts meet](https://meet.google.com/_meet) è disponibile per chi ha un account "pro" di Google Suite: è possibile per le aziende, ma è [gratuito per le scuole](https://edu.google.com/intl/it_it/products/gsuite-for-education/?modal_active=none)
 
 ### Zoom
+
 [Zoom](https://zoom.us) | Zoom è uno strumento per la video conferenza che permette agli studenti di interagire con il docente remotamente. Il docente può condividere il suo schermo mostrando slide e materiale didattico. In questo periodo Zoom è gratuito per le scuole che devono fronteggiare l’emergenza del corona virus.  
 
 --- 
 ## Lavagne condivise
 
-## Padlet
+### Padlet
+
 [Padlet](https://padlet.com/) è una lavagna condivisa con “post it” dove prendere appunti e aggiungere immagini.  Padlet è uno strumento molto semplice e può essere impiegato anche nelle prime classi della scuola primaria. [Qui un tutorial.](https://www.youtube.com/watch?v=TmwOwj0ZPXs)  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TmwOwj0ZPXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --- 
 ## Documenti condivisi
 
+### Testi
+
+#### Etherpad
+
+Etherpad permette di lavorare in collaborazione con altri a un documento condiviso. Può essere installato su un proprio server, oppure si possono utilizzare alcune istanze gratuite:
+
+* [Etherpad di Fairkom](https://board.net/)
+* [Etherpad di Framasoft](https://framapad.org/it/)
+
+#### Documenti Google
+
+Chiunque abbia un account GMail, può creare documenti condivisi con [Documenti Google](https://docs.google.com/document/?usp=mkt_docs) che vengono modificati in collaborazione e salvati nel cloud.
+
+### Fogli elettronici
+
+#### Fogli Google
+
+Chiunque abbia un account GMail ha a disposizione i [Fogli Google](https://docs.google.com/spreadsheets/?usp=mkt_sheets) che permettono di gestire in modo condiviso i fogli elettronici, di creare
+tabelle pivot, caricare dati da remoto, disegnare grafici.
+
+#### Ethercalc
+
+[Ethercalc](https://ethercalc.net/) è un progetto che permette di condividere fogli elettronici
+
 --- 
 ## Materiali
 
 ### Wikibooks
 [Wikibooks](https://it.wikibooks.org/) Wikibooks è uno strumento che può essere utilizzato in ambienti didattici per la scrittura collaborativa.  
+
+---
+## Tutorial
+
+### La classe online
+
+[La classe online](https://sites.google.com/view/la-classe-online/presentazione)
+
+---
+## Risorse
+
+### Solidarietà digitale
+
+Il [Ministro per l'Innovazione Tecnologica e la Digitalizzazione](https://innovazione.gov.it/coronavirus-la-digitalizzazione-a-supporto-delle-zone-rosse/) ha lanciato la campagna [Solidarietà digitale](https://solidarietadigitale.agid.gov.it/#/) che raccoglie opportunità fornite da aziende a favore delle zone con restrizioni per l'emergenza.
 
 --- 
 ## Contatti
