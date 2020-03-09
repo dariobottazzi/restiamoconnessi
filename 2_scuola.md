@@ -8,6 +8,10 @@ uno spunto per chi volesse provare.
 
 NB Questa lista **non è esaustiva**: se vuoi collaborare, sei benvenuta/o. Basta una mail o meglio una pull-request.
 
+- TOC
+{:toc}
+
+--- 
 ## Piattaforme complete
 
 ## Edmodo
@@ -28,6 +32,7 @@ Fino al 1 Luglio 2020 Google fornirà gratuitamente alle scuole colpite dai prov
 Sono disponibili ottimi [tutorial.](https://www.youtube.com/watch?v=4ZTacumEfbo)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4ZTacumEfbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+--- 
 ## Telepresenza
 
 Preferiamo utilizzare il termine "telepresenza" perché gli strumenti che qui elenchiamo non sono soltanto dedicati a trasmettere contenuti multimediali ad una "classe", ma consentono di realizzare collegamenti in
@@ -49,17 +54,21 @@ I limiti di connessione sono quelli dati dalla potenza del collegamento dei part
 ### Zoom
 [Zoom](https://zoom.us) | Zoom è uno strumento per la video conferenza che permette agli studenti di interagire con il docente remotamente. Il docente può condividere il suo schermo mostrando slide e materiale didattico. In questo periodo Zoom è gratuito per le scuole che devono fronteggiare l’emergenza del corona virus.  
 
-
+--- 
 ## Lavagne condivise
 
 ## Padlet
 [Padlet](https://padlet.com/) è una lavagna condivisa con “post it” dove prendere appunti e aggiungere immagini.  Padlet è uno strumento molto semplice e può essere impiegato anche nelle prime classi della scuola primaria. [Qui un tutorial.](https://www.youtube.com/watch?v=TmwOwj0ZPXs)  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TmwOwj0ZPXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+--- 
 ## Documenti condivisi
 
+--- 
 ## Materiali
 
-## Wikibooks
+### Wikibooks
 [Wikibooks](https://it.wikibooks.org/) Wikibooks è uno strumento che può essere utilizzato in ambienti didattici per la scrittura collaborativa.  
 
+--- 
+## Contatti
