@@ -7,4 +7,7 @@ Siamo civic hacker. Non siamo un gruppo persistente e strutturato, ma ci legano 
 
 Contattaci se hai voglia di dare una mano. Abbiamo bisogno di tutti, tanto di informatici, quanto di economisti, di umanisti, di artisti, e di liberi pensatori. Sono benvenute fra noi le intelligenze ribelli e irregolari che hanno voglia di giocare e reinventare strumenti e tecnologie.
 
---SOD
+- [Alberto Cottica](https://twitter.com/alberto_cottica)
+- [Matteo Fortini](https://twitter.com/matt_fortini)
+- [Francesco "Piersoft" Paolicelli](https://twitter.com/Piersoft). @piersoft su Telegram
+- [Dario Bottazzi](https://twitter.com/bottazzi)
