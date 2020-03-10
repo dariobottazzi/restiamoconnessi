@@ -3,6 +3,4 @@ layout: page
 title: DDL lavoro agile
 ---
 
-[TO DO] 
- 
- 
+Serve ancora un po' di pazienza... 
