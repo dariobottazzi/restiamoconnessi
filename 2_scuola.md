@@ -125,4 +125,4 @@ Alcuni contatti che hanno esperienza di insegnamento a distanza:
 * [Francesco "Piersoft" Paolicelli](http://www.piersoft.it/). @piersoft su Telegram
 * [Luca Scalzullo](https://sites.google.com/view/lucascalzullo/home).
 * [Elia Bombardelli](https://www.spreaker.com/user/rickdufer/dailycogito2x157).
-* Alessandro Bogliolo, [Coding in your classroom now](http://codemooc.org/).
+* Alessandro Bogliolo, [email](alessandro.bogliolo@uniurb.it).
