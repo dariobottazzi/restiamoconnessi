@@ -11,7 +11,7 @@ NB Questa lista **non è esaustiva**: se vuoi collaborare, sei benvenuta/o. Bast
 - TOC
 {:toc}
 
---- 
+---
 ## Piattaforme complete
 
 ### Edmodo
@@ -35,7 +35,7 @@ Fino al 1 Luglio 2020 Google fornirà gratuitamente alle scuole colpite dai prov
 Sono disponibili ottimi [tutorial.](https://www.youtube.com/watch?v=4ZTacumEfbo)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4ZTacumEfbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
---- 
+---
 ## Telepresenza
 
 Preferiamo utilizzare il termine "telepresenza" perché gli strumenti che qui elenchiamo non sono soltanto dedicati a trasmettere contenuti multimediali ad una "classe", ma consentono di realizzare collegamenti in
@@ -56,9 +56,9 @@ I limiti di connessione sono quelli dati dalla potenza del collegamento dei part
 
 ### Zoom
 
-[Zoom](https://zoom.us) | Zoom è uno strumento per la video conferenza che permette agli studenti di interagire con il docente remotamente. Il docente può condividere il suo schermo mostrando slide e materiale didattico. Zoom è gratuito ed è perfetto per le scuole che devono fronteggiare l’emergenza del corona virus. Nella versione free la connessione dura 40 minuti e poi si viene disconnessi. Può registrare la sessione ed ha anche una whiteboard e la possibilità di inviare file (dal proprio PC o da GDrive, Dropbox etc). 
+[Zoom](https://zoom.us) è uno strumento per la video conferenza che permette agli studenti di interagire con il docente remotamente. Il docente può condividere il suo schermo mostrando slide e materiale didattico. Zoom è gratuito ed è perfetto per le scuole che devono fronteggiare l’emergenza del corona virus. Nella versione free la connessione dura 40 minuti e poi si viene disconnessi. Può registrare la sessione ed ha anche una whiteboard e la possibilità di inviare file (dal proprio PC o da GDrive, Dropbox etc).
 
---- 
+---
 ## Lavagne condivise
 
 ### Padlet
@@ -66,7 +66,7 @@ I limiti di connessione sono quelli dati dalla potenza del collegamento dei part
 [Padlet](https://padlet.com/) è una lavagna condivisa con “post it” dove prendere appunti e aggiungere immagini.  Padlet è uno strumento molto semplice e può essere impiegato anche nelle prime classi della scuola primaria. [Qui un tutorial.](https://www.youtube.com/watch?v=TmwOwj0ZPXs)  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TmwOwj0ZPXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
---- 
+---
 ## Documenti condivisi
 
 ### Testi
@@ -93,7 +93,7 @@ tabelle pivot, caricare dati da remoto, disegnare grafici.
 
 [Ethercalc](https://ethercalc.net/) è un progetto che permette di condividere fogli elettronici
 
---- 
+---
 ## Materiali
 
 ### Wikibooks
@@ -117,14 +117,12 @@ Il [Ministro per l'Innovazione Tecnologica e la Digitalizzazione](https://innova
 
 Il MIUR ha un [catalogo di link e informazioni sulla didattica a distanza](https://www.istruzione.it/coronavirus/didattica-a-distanza.html)
 
---- 
+---
 ## Contatti
 
 Alcuni contatti che hanno esperienza di insegnamento a distanza:
 
-* Francesco "Piersoft" Paolicelli: http://www.piersoft.it/ . @piersoft su Telegram
-* Luca Scalzullo: https://sites.google.com/view/lucascalzullo/home
-* Elia Bombardelli: https://www.spreaker.com/user/rickdufer/dailycogito2x157
-* Alessandro Bogliolo, Coding in your classroom now: http://codemooc.org/
-
-
+* [Francesco "Piersoft" Paolicelli](http://www.piersoft.it/). @piersoft su Telegram
+* [Luca Scalzullo](https://sites.google.com/view/lucascalzullo/home).
+* [Elia Bombardelli](https://www.spreaker.com/user/rickdufer/dailycogito2x157).
+* Alessandro Bogliolo, [Coding in your classroom now](http://codemooc.org/).
