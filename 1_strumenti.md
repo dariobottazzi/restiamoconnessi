@@ -70,5 +70,6 @@ WebDAV
 
 ## Altre Risorse
 
-Il [Ministro per l'Innovazione Tecnologica e la Digitalizzazione](https://innovazione.gov.it/coronavirus-la-digitalizzazione-a-supporto-delle-zone-rosse/) ha lanciato la campagna [Solidarietà digitale](https://solidarietadigitale.agid.gov.it/#/) che raccoglie offerte per l'accesso a strumenti di smart working molto vantaggiose con l'idea di promuovere e facilitare il lavoro remoto.
+* Il [Ministro per l'Innovazione Tecnologica e la Digitalizzazione](https://innovazione.gov.it/coronavirus-la-digitalizzazione-a-supporto-delle-zone-rosse/) ha lanciato la campagna [Solidarietà digitale](https://solidarietadigitale.agid.gov.it/#/) che raccoglie offerte per l'accesso a strumenti di smart working molto vantaggiose con l'idea di promuovere e facilitare il lavoro remoto.
+* [flexibleworking.it](https://www.flexibleworking.it) è un'iniziativa di Copernicani.it ed alcune aziende per aiutare nel lavoro flessibile/smart
  
