@@ -43,18 +43,24 @@ Normalmente le soluzioni richiedono di pagare una modesta fee mensile per ogni u
 
 - Google G Suite. Il [costo dell'intera suite](https://gsuite.google.com/intl/en_ie/pricing.html) professionale di google, detta G-suite, è di 4.68 Euro/mese per account. Ma esiste anche una versio e gratuita  del pacchetto che, pur garantendo il medesimo livello di qualità della versione professionale, è destinata ad un utilizzo di natura personale.
 - [Microsoft Office 365](https://www.office.com/) è uno strumento molto diffuso. Le [licenze professionali](https://products.office.com/it-it/compare-all-microsoft-office-products?&rtc=1&activetab=tab:primaryr1) partono da 8.80 Euro + IVA. Il sistema comprende la versione on-line dei principali strumenti di Microsoft: Word, Excel, Powerpoint, Access. A seconda del piano tariffario scelto potrebbero essere compresi ulteriori strumenti quali: Sharepoint, Teams, Exchange, OneDrive. Esiste anche una versione dedicata a'uso personale che costa 69 Euro/anno.
-- Zoho Docs **TO DO**
-- Collabora **TO DO**
+- [Zoho Docs](https://www.zoho.com/docs/) è un sistema che ha forti analogie con la Google G suite o Microsoft Office 365. Il sistema è pensato per una utenza professionale anche se offre un accesso freemium.
+- [Collabora](https://nextcloud.com/collaboraonline/) è una soluzione open source analoga all'offerta di Google G suite. La soluzione opera con NextCloud, e si segnala per l'elevata qualità dell'interfaccia e dell'applicazione. Questa applicazione non richiede quindi il pagamento di alcuna fee e può fornire supporto per tutti gli impiegati di una piccola o media impresa.  
 - [Etherpad](https://etherpad.org/) permette di lavorare in collaborazione con altri a un documento condiviso. Può essere installato su un proprio server, oppure si possono utilizzare alcune istanze gratuite: [Fairkom](https://board.net0/), [Framasoft](https://framapad.org/it).
 - [Ethercalc](https://ethercalc.net/) è un progetto open source che può essere installato su un proprio server. Ethercal che permette di condividere fogli elettronici con i colleghi.
 
 ---
 
 ## Storage su cloud
+Esistono molti strumenti che possono essere impiegati per la condivisione di file. Le soluzioni che elenchiamo nel seguito consentono di gestire (in acluni casi anche modificare documenti). I documenti possono essere condivisi e il loro accesso può essere ristretto ai collaboratori e/o ai clienti.
 
+Oggi le soluzioni disponibili sono integrate tutte con applicazioni in ambiente mobile, perché sono nate con l'idea di permettere il lavoro distribuito per utenti nomadici che richiedono di accedere a file e documenti ovunque si trovino, ed in qualunque momento.
+
+Le soluzioni professionali richiedono il pagamento di una piccola fee mensile. Le più comuni sono elencate sotto.
 - [Dropbox](https://www.dropbox.com/)
 - [Google Drive](https://www.google.com/drive/)
-- [Amazon Drive](https://www.amazon.it/b?ie=UTF8&node=12935595031)
+- [Amazon WorkDocs](https://aws.amazon.com/workdocs/)
+
+Un sistema particolarmente interessante è next cloud. È un sistema open source che può essere installato con molta semplicità. L'interfaccia è assolutamente simile a quella dei prodotti commerciali, e offre un servizio di WebDAV che consente di montare l'archivio come se fosse parte del file system.
 - [NextCloud](https://nextcloud.com/)
 
 ---
