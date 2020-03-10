@@ -121,6 +121,9 @@ Il MIUR ha un [catalogo di link e informazioni sulla didattica a distanza](https
 
 [lascuolacontinua.it](https://www.lascuolacontinua.it) Iniziativa di Copernicani.it ed alcune aziende con informazioni e promozioni
 
+### Lista di risorse del Center for Teaching and Learning, DePaul University
+[Lista](https://docs.google.com/spreadsheets/d/1VT9oiNYPyiEsGHBoDKlwLlWAsWP58sGV7A3oIuEUG3k/htmlview?usp=sharing&sle=true&fbclid=IwAR3iWa3N35UeLZsUs1l_mxl_5Xpn0_hphunnv7ZFGiLG_nk6Wik5d3oByME) di risorse su distant learning gestita da [Daniel Stanford](https://twitter.com/dstanford), Director of Faculty Development & Technology Innovation.
+
 ---
 ## Contatti
 
