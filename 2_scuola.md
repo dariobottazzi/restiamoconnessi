@@ -117,6 +117,10 @@ Il [Ministro per l'Innovazione Tecnologica e la Digitalizzazione](https://innova
 
 Il MIUR ha un [catalogo di link e informazioni sulla didattica a distanza](https://www.istruzione.it/coronavirus/didattica-a-distanza.html)
 
+### La scuola continua
+
+[lascuolacontinua.it](https://www.lascuolacontinua.it) Iniziativa di Copernicani.it ed alcune aziende con informazioni e promozioni
+
 ---
 ## Contatti
 
