@@ -56,7 +56,7 @@ I limiti di connessione sono quelli dati dalla potenza del collegamento dei part
 
 ### Zoom
 
-[Zoom](https://zoom.us) | Zoom è uno strumento per la video conferenza che permette agli studenti di interagire con il docente remotamente. Il docente può condividere il suo schermo mostrando slide e materiale didattico. In questo periodo Zoom è gratuito per le scuole che devono fronteggiare l’emergenza del corona virus.  
+[Zoom](https://zoom.us) | Zoom è uno strumento per la video conferenza che permette agli studenti di interagire con il docente remotamente. Il docente può condividere il suo schermo mostrando slide e materiale didattico. Zoom è gratuito ed è perfetto per le scuole che devono fronteggiare l’emergenza del corona virus. Nella versione free la connessione dura 40 minuti e poi si viene disconnessi. Può registrare la sessione ed ha anche una whiteboard e la possibilità di inviare file (dal proprio PC o da GDrive, Dropbox etc). 
 
 --- 
 ## Lavagne condivise
@@ -122,7 +122,7 @@ Il MIUR ha un [catalogo di link e informazioni sulla didattica a distanza](https
 
 Alcuni contatti che hanno esperienza di insegnamento a distanza:
 
-* Francesco "Piersoft" Paolicelli: http://www.piersoft.it/
+* Francesco "Piersoft" Paolicelli: http://www.piersoft.it/ . @piersoft su Telegram
 * Luca Scalzullo: https://sites.google.com/view/lucascalzullo/home
 * Elia Bombardelli: https://www.spreaker.com/user/rickdufer/dailycogito2x157
 * Alessandro Bogliolo, Coding in your classroom now: http://codemooc.org/
