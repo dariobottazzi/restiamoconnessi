@@ -3,6 +3,4 @@ layout: page
 title: PA e Smart Working
 ---
 
-[TO DO] 
- 
- 
+Serve ancora un po' di pazienza...
