@@ -22,7 +22,7 @@ NB Questa lista **non è esaustiva**: se vuoi collaborare, sei benvenuta/o. Bast
 
 ### WeSchool
 
-[WeSchool](https://www.weschool.com/) è tra le piattaforme più semplici da imparare ad usare. La sua curva di apprendimento la rende ideale a paerire dalle prime classi della scuola primaria. WeSchool permette di creare classi virtuali con un codice per gli studenti, di assegnare compiti di vario tipo (quiz Vero-Falso, risposte aperte, Cruciverba, etc). La veste grafica della soluzione è particolarmente curata. Sono disponibili [ottimi tutorial](https://www.youtube.com/watch?v=GmOhElgK5q8&feature=youtu.be) per gli insegnanti.
+[WeSchool](https://www.weschool.com/) è tra le piattaforme più semplici da imparare ad usare. La sua curva di apprendimento la rende ideale a partire dalle prime classi della scuola primaria. WeSchool permette di creare classi virtuali con un codice per gli studenti, di assegnare compiti di vario tipo (quiz Vero-Falso, risposte aperte, Cruciverba, etc). La veste grafica della soluzione è particolarmente curata. Sono disponibili [ottimi tutorial](https://www.youtube.com/watch?v=GmOhElgK5q8&feature=youtu.be) per gli insegnanti.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GmOhElgK5q8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
