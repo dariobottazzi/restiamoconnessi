@@ -26,7 +26,7 @@ NB Questa lista **non è esaustiva**: se vuoi collaborare, sei benvenuta/o. Bast
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GmOhElgK5q8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Google Suite for Education
+### Google Suite for Education / Google apps for Education
 
 Fino al 1 Luglio 2020 Google fornirà gratuitamente alle scuole colpite dai provvedimenti sul corona virus [Google Suite for Education](https://edu.google.it/). La suite, oltre tutte le apps di Google, offre alcune soluzioni particolarmente interessanti:
     - *Meet* cioè la versione professionale Hangouts. Gestisce videoconferenze fino a 100 utenti e da Luglio 2020 fino a 250 utenti. Permette la registrazione della seduta di video call,
@@ -34,6 +34,25 @@ Fino al 1 Luglio 2020 Google fornirà gratuitamente alle scuole colpite dai prov
 
 Sono disponibili ottimi [tutorial.](https://www.youtube.com/watch?v=4ZTacumEfbo)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4ZTacumEfbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Google drive – Come si accede e come si usa lo spazio di archiviazione gratuito di Google
+
+[Google Drive](https://www.google.com/drive/) più di uno spazio di archiviazione, una piazza virtuale in cui creare e condividere contenuti, ideale per il co-working
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VRMdxVF2TFQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Google Moduli – Creare quiz e questionari utili per la raccolta dati o la valutazione a distanza.
+
+[Google Moduli](https://www.google.it/intl/it/forms/about/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P4X4IOlYCf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Google Sites – Creare rapidamente e senza alcun problema siti internet efficaci in cui raccogliere le proprie lezione ed I propri materiali.
+
+[Google sites](https://sites.google.com/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BdPauCPJfsc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ---
 ## Telepresenza
@@ -50,6 +69,11 @@ che si possano connettere senza dover essere invitati uno per uno.
 
 I limiti di connessione sono quelli dati dalla potenza del collegamento dei partecipanti e dalle risorse di calcolo dei dispositivi collegati.
 
+Dove creare stanze:
+
+* [Sito principale di jitsi](https://meet.jit.si/): stanno cercando di resistere all'aumento di traffico aumentando le risorse
+* [Framatalk](https://framatalk.org/accueil/it/): compatibile con jitsi, altro server
+
 ### Google hangouts meet
 
 [Google Hangouts meet](https://meet.google.com/_meet) è disponibile per chi ha un account "pro" di Google Suite: è possibile per le aziende, ma è [gratuito per le scuole](https://edu.google.com/intl/it_it/products/gsuite-for-education/?modal_active=none)
@@ -65,6 +89,18 @@ I limiti di connessione sono quelli dati dalla potenza del collegamento dei part
 
 [Padlet](https://padlet.com/) è una lavagna condivisa con “post it” dove prendere appunti e aggiungere immagini.  Padlet è uno strumento molto semplice e può essere impiegato anche nelle prime classi della scuola primaria. [Qui un tutorial.](https://www.youtube.com/watch?v=TmwOwj0ZPXs)  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TmwOwj0ZPXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Google Jamboard – Una lavagna interattiva multimediale (LIM) a portata di click
+
+[Google Jamboard](https://edu.google.com/intl/it_it/products/jamboard/?modal_active=none)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j8EWt8bpfSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Lightshot – Un’App gratuita e semplice per estrarre e modificare in tempo reale screenshot dal desktop
+
+[Lightshot](https://app.prntscr.com/en/index.html)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nxsU4ATreaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 ## Documenti condivisi
@@ -94,10 +130,45 @@ tabelle pivot, caricare dati da remoto, disegnare grafici.
 [Ethercalc](https://ethercalc.net/) è un progetto che permette di condividere fogli elettronici
 
 ---
+## CAD
+
+### Tinkercad – La prima lezione introduttiva sulla piattaforma Autodesk. Qui parliamo del disegno in 3D.
+
+[Tinkercad](https://www.tinkercad.com/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U7IS5ySDBa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Storymap – Un meraviglioso modo di viaggiare, geolocalizzando contenuti, ricordi ed approfondimenti. Uno strumento utilissimo in ogni disciplina.
+
+[Storymap](https://storymap.knightlab.com/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l9PVTDnqPEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 ## Materiali
 
 ### Wikibooks
 [Wikibooks](https://it.wikibooks.org/) Wikibooks è uno strumento che può essere utilizzato in ambienti didattici per la scrittura collaborativa.  
+
+### Scratch
+
+#### SCRATCH – LEZIONE 1 
+
+Introduzione alla più famosa piattaforma per il coding e la programmazione visual a blocchi.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4sFa9j1E3Cc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### SCRATCH – LEZIONE 2 
+
+Impariamo come si muovono gli sprite sullo stage.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JnuxAjxz66s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### LEZIONE SULL’IMPRONTA ECOLOGICA E L’AMBIENTE 
+
+Cosa è e consa sarà della nostra terra? Proviamo a quantificare come influiamo sulla natura e che impronta sta lasciando il nostro passaggio sulla terra.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jSxtB4w650U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 ## Tutorial
