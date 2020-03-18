@@ -102,6 +102,12 @@ Dove creare stanze:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nxsU4ATreaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### LOOM - Una via semplice per registrare lo schermo
+
+[LOOM](https://www.loom.com/) – una via semplice per registrare lo schermo
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=WYW-7-nbsV4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 ## Documenti condivisi
 
@@ -164,11 +170,31 @@ Impariamo come si muovono gli sprite sullo stage.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JnuxAjxz66s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### LEZIONE SULL’IMPRONTA ECOLOGICA E L’AMBIENTE 
+#### SCRATCH - LEZIONE 3
+
+Facciamo camminare il gattino di SCRATCH
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=GaFS4n5S5qw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### SCRATCH - LEZIONE 4
+
+Impariamo a disegnare con SCRATCH
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=PgfIiK3Pyk8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Lezioni
+
+#### LEZIONE SULL’IMPRONTA ECOLOGICA E L’AMBIENTE 
 
 Cosa è e consa sarà della nostra terra? Proviamo a quantificare come influiamo sulla natura e che impronta sta lasciando il nostro passaggio sulla terra.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jSxtB4w650U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### La fisica dell'energia
+
+Un ripasso sulla fisica dell’ENERGIA per ragazzi di terza media
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Zpvuig4Xv94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 ## Tutorial
