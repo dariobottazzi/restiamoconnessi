@@ -106,7 +106,7 @@ Dove creare stanze:
 
 [LOOM](https://www.loom.com/) – una via semplice per registrare lo schermo
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=WYW-7-nbsV4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WYW-7-nbsV4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 ## Documenti condivisi
@@ -174,13 +174,13 @@ Impariamo come si muovono gli sprite sullo stage.
 
 Facciamo camminare il gattino di SCRATCH
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=GaFS4n5S5qw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GaFS4n5S5qw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### SCRATCH - LEZIONE 4
 
 Impariamo a disegnare con SCRATCH
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=PgfIiK3Pyk8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PgfIiK3Pyk8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Lezioni
 
@@ -194,7 +194,7 @@ Cosa è e consa sarà della nostra terra? Proviamo a quantificare come influiamo
 
 Un ripasso sulla fisica dell’ENERGIA per ragazzi di terza media
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Zpvuig4Xv94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zpvuig4Xv94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 ## Tutorial
